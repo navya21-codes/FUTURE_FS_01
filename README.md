@@ -13,4 +13,6 @@ A responsive developer portfolio built with modern web technologies to showcase 
 ### Backend
 - Node.js
 - Express.js
-- Nodemailer (for sending emails)
+  
+### Database
+- MongoDB
