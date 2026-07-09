@@ -8,8 +8,7 @@ A responsive developer portfolio built with modern web technologies to showcase 
 - HTML5
 - CSS3
 - JavaScript
-- Responsive Design
-
+  
 ### Backend
 - Node.js
 - Express.js
